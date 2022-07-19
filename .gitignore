@@ -10,3 +10,5 @@
 *.o
 *.order
 *.symvers
+
+data.txt
